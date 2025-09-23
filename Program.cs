@@ -194,7 +194,7 @@ internal class Program
 
 
 
-        } //end while(true)
+        } //end while(perform2)
        
 
     }
